@@ -110,37 +110,43 @@
       <!-- School Spirit -->
       <mj-section>
         <mj-column padding="20px 30px">
-          <mj-image src="assets/3.jpg.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" padding-bottom="20px" css-class="watch-image" />
-        </mj-column>
-      </mj-section>
-
-        <!-- School Spirit -->
-      <mj-section>
-        <mj-column padding="20px 30px">
           <mj-image src="assets/3.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" padding-bottom="20px" css-class="watch-image" />
         </mj-column>
       </mj-section>
 
         <!-- Clothing -->
-      <mj-section>
-        <mj-column padding="20px 30px">
-          <mj-image src="assets/3.jpg.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" padding-bottom="20px" css-class="watch-image" />
-        </mj-column>
-      </mj-section>
+      <mj-section padding="0px">
+          <mj-group css-class="icons-size">
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.facebook.com/FloridaInstituteofTechnology" src="assets/4.png" alt="Facebook Link." width="27px" height="27px" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.youtube.com/@FloridaTechOfficial" src="assets/5.png" alt="YouTube Link." width="27px" height="27px" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.linkedin.com/school/florida-institute-of-technology/" src="assets/6.png" alt="LinkedIn Link." width="27px" height="27px" />
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+         <mj-section padding="0px">
+          <mj-group css-class="icons-size">
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.facebook.com/FloridaInstituteofTechnology" src="assets/7.png" alt="Facebook Link." width="27px" height="27px" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.youtube.com/@FloridaTechOfficial" src="assets/8.png" alt="YouTube Link." width="27px" height="27px" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.linkedin.com/school/florida-institute-of-technology/" src="assets/9.png" alt="LinkedIn Link." width="27px" height="27px" />
+            </mj-column>
+          </mj-group>
+        </mj-section>
 
         <!-- School needs -->
       <mj-section>
         <mj-column padding="20px 30px">
           <mj-image src="assets/10.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" padding-bottom="20px" css-class="watch-image" />
-        </mj-column>
-      </mj-section>
-
-      <!-- Clothing -->
-      <mj-section padding="0px 40px 0px 40px">
-        <mj-column>
-          <mj-text align="center" font-size="20px" font-weight="500" line-height="25px" color="#212b35">
-            <p>Timeless Elegance, Precision Crafted. Redefine your style with Vanguard Watches.</p>
-          </mj-text>
         </mj-column>
       </mj-section>
 

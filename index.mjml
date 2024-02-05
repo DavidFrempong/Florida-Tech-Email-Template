@@ -69,7 +69,7 @@
 
       .icons-size {
         max-width: 300px;
-        padding: 40px 0 30px;
+        padding: 5px;
       }
 
       .footer {
@@ -81,7 +81,8 @@
       }
 
       .watch-image img {
-        width: 70% !important;
+        width: 100%;
+        padding: 0px;
         margin: 0 auto;
       }
     </mj-style>
@@ -93,24 +94,17 @@
       <!-- Header -->
       <mj-include path="./components/header.mjml" />
 
-      <!-- Top section -->
-      <mj-section>
-        <mj-column>
-          <mj-image src="http://127.0.0.1:5500/index.html/assets/Watch 1.svg" alt="" href="https://vincerocollective.com/collections/shop-mens" padding-bottom="20px" />
-        </mj-column>
-      </mj-section>
-
       <!-- 15% off back to school  -->
-      <mj-section>
-        <mj-column padding="20px 30px">
-          <mj-image src="assets/2.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" padding-bottom="20px" css-class="watch-image" />
+      <mj-section padding="0px">
+        <mj-column padding="0px">
+          <mj-image padding="0px" src="assets/2.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" css-class="watch-image" />
         </mj-column>
       </mj-section>
 
       <!-- School Spirit -->
       <mj-section>
-        <mj-column padding="20px 30px">
-          <mj-image src="assets/3.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" padding-bottom="20px" css-class="watch-image" />
+        <mj-column>
+          <mj-image padding="0px" src="assets/3.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" css-class="watch-image" />
         </mj-column>
       </mj-section>
 
@@ -144,9 +138,9 @@
         </mj-section>
 
         <!-- School needs -->
-      <mj-section>
-        <mj-column padding="20px 30px">
-          <mj-image src="assets/10.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" padding-bottom="20px" css-class="watch-image" />
+      <mj-section padding="0px">
+        <mj-column padding="0px">
+          <mj-image padding="0px" src="assets/10.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" css-class="watch-image" />
         </mj-column>
       </mj-section>
 

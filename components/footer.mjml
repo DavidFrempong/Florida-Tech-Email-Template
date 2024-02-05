@@ -1,0 +1,40 @@
+      <mj-wrapper css-class="footer" padding="0px">
+        <mj-section padding="0px">
+          <mj-group css-class="icons-size">
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.facebook.com/FloridaInstituteofTechnology" src="http://127.0.0.1:5500/index.html/assets/fb.png" alt="Facebook Link." width="27px" height="27px" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.youtube.com/@FloridaTechOfficial" src="http://127.0.0.1:5500/index.html/assets/yt.png" alt="YouTube Link." width="27px" height="27px" />
+            </mj-column>
+            <mj-column padding="0">
+              <mj-image padding="0 5px" href="https://www.linkedin.com/school/florida-institute-of-technology/" src="http://127.0.0.1:5500/index.html/assets/in.png" alt="LinkedIn Link." width="27px" height="27px" />
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="20px 0 0">
+          <mj-column padding="0">
+            <mj-text font-size="10px" align="center">
+              &copy; DISCLAIMER - Limited time offer. Exclusions, terms and conditions apply. Click here for details. Offer may be modified or terminated at any time without notice.
+*Personalized Picks are personal to you & may not be included in the offer/discount.
+            </mj-text>
+             <mj-text font-size="10px" align="center">
+              Please be sure to add <a href="mailto:shop@e.fanaticsretailgroup.com">shop@e.fanaticsretailgroup.com</a> to ensure our messages are delivered to your inbox.
+            </mj-text>
+             <mj-text font-size="10px" align="center">
+              This email is being sent to <a href="mailto:zqdo.dev@gmail.com">zqdo.dev@gmail.com</a> from Florida Institute of Technology Apparel & Spirit Store. We respect your privacy. We do not sell, rent or abuse our customer email list. We strive to send valuable, timely emails to our subscribers. If you no longer wish to receive our emails, please unsubscribe below. Thanks.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px 0px 0px 0px">
+          <mj-column padding="0">
+            <mj-text font-size="10px" align="center">
+              <a href="#" class="footer-links">Unsubscribe</a>
+              <a href="#" class="footer-links">| Manage Your Email Preferences</a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>

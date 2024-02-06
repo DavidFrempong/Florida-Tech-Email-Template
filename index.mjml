@@ -2,12 +2,12 @@
   <mj-head>
     <mj-title>Florida Institute of Technology Email Template</mj-title>
     <mj-style>
-      @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
     </mj-style>
     <mj-style>
       * {
         box-sizing: border-box;
-        font-family: 'Oswald', sans-serif;
+        font-family: 'Poppins', sans-serif;
       }
 
       h1,
@@ -19,7 +19,7 @@
       a,
       p,
       span {
-        font-family: 'Oswald', sans-serif;
+        font-family: 'Poppins', sans-serif;
       }
 
       .footer-links {
@@ -42,7 +42,7 @@
             <!-- background-color: #300606; -->
     <mj-style inline="inline">
       .header {
-        background-color: #d7d4d4;
+        background-color: #e7e7e7;
       }
 
       .logo img {

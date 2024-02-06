@@ -1,10 +1,10 @@
 <mjml>
   <mj-head>
-   <mj-title>Florida Institute of Technology Email Template</mj-title>
+    <mj-title>Florida Institute of Technology Email Template</mj-title>
     <mj-style>
       @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
     </mj-style>
-    <mj-style> 
+    <mj-style>
       * {
         box-sizing: border-box;
         font-family: 'Oswald', sans-serif;
@@ -36,12 +36,7 @@
         .nav-links {
           display: none;
         }
-
-        .header {
-          background-color: #2d2d2d !important;
-        }
       }
-
     </mj-style>
     <!-- Shopify color: background-color: #004c3f; -->
     <mj-style inline="inline">
@@ -85,6 +80,17 @@
         padding: 0px;
         margin: 0 auto;
       }
+
+      .clothing-container {
+        height: 150px;
+      }
+
+      .clothing-individual img {
+        height: 150px;
+        width: auto;
+        max-width: 100%;
+        display: block;
+      }
     </mj-style>
   </mj-head>
 
@@ -97,48 +103,48 @@
       <!-- 15% off back to school  -->
       <mj-section padding="0px">
         <mj-column padding="0px">
-          <mj-image padding="0px" src="assets/2.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" css-class="watch-image" />
+          <mj-image padding="0px" src="assets/2.png" alt="" href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db7a26351214682a047c5b8e82f025649fa6c787f5246e97155ca33aef9a942e5f2cd0038171ff0f324a828587ff11eb8e52c258b596e17efc9" css-class="watch-image" />
         </mj-column>
       </mj-section>
 
       <!-- School Spirit -->
-      <mj-section>
-        <mj-column>
-          <mj-image padding="0px" src="assets/3.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" css-class="watch-image" />
+      <mj-section padding="0px">
+        <mj-column padding="0px">
+          <mj-image padding="0px" src="assets/3.png" alt="" href="https://click.e.fanaticsretailgroup.com/?qs=1b1677f9b4763218cedf3403f5ab0d92fdc2599b1d7a31db9f84339282cff61e8c9449873b8a84d49ed475007cf72d8e5de0e14ab8a24f6f6586d7bbb1da3324" css-class="watch-image" />
         </mj-column>
       </mj-section>
 
-        <!-- Clothing -->
-      <mj-section padding="0px">
-          <mj-group css-class="icons-size">
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://www.facebook.com/FloridaInstituteofTechnology" src="assets/4.png" alt="Facebook Link." width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://www.youtube.com/@FloridaTechOfficial" src="assets/5.png" alt="YouTube Link." width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://www.linkedin.com/school/florida-institute-of-technology/" src="assets/6.png" alt="LinkedIn Link." width="27px" height="27px" />
-            </mj-column>
-          </mj-group>
-        </mj-section>
+      <!-- Clothing -->
+      <mj-section padding-top="20px" css-class="clothing-container">
+        <mj-group css-class="icons-size">
+          <mj-column padding="0">
+            <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cf9bc0fd82966d389357c169638b6517066d7e7deab94265c8bdf8ff5cb134e3e4dc89d64a915afa737184895bef02eb06ee6ac727b45d78a8" src="assets/4.png" alt="Facebook Link." css-class="clothing-individual" />
+          </mj-column>
+          <mj-column padding="0">
+            <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cf1eb7a01ac72640a622a9f49589b666f96e0dffb0b94de1a0783bcbf9c6df5aad6d8ab99c7912a0f5afc0b35f2aeb1c672d75604645aabc1d" src="assets/5.png" alt="YouTube Link." css-class="clothing-individual" />
+          </mj-column>
+          <mj-column padding="0">
+            <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cfef299d46c4fbb193190c0e8175b2e7af93d4afcdeec8f123cc3a2cf049d5ed6ce3aedb7f55f4e5ee36c9a0b76589d424064bbcb2772dc91d" src="assets/6.png" alt="LinkedIn Link." css-class="clothing-individual" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
 
-         <mj-section padding="0px">
-          <mj-group css-class="icons-size">
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://www.facebook.com/FloridaInstituteofTechnology" src="assets/7.png" alt="Facebook Link." width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://www.youtube.com/@FloridaTechOfficial" src="assets/8.png" alt="YouTube Link." width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://www.linkedin.com/school/florida-institute-of-technology/" src="assets/9.png" alt="LinkedIn Link." width="27px" height="27px" />
-            </mj-column>
-          </mj-group>
-        </mj-section>
+      <mj-section padding="0px" css-class="clothing-container">
+        <mj-group css-class="icons-size">
+          <mj-column padding="0">
+            <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cf2eed7d5afda3e13c9005ec3820464413cda3a3788af6313191d11286caf86ebbf0b2dbda372ee283647d736e30d6d07ea1035b3c5b93e627" src="assets/7.png" alt="Facebook Link." css-class="clothing-individual" />
+          </mj-column>
+          <mj-column padding="0">
+            <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cf57d9997d0bca3a14c10e833a1cb387496ef5ce2c61eacaa16c0078b4aa5294747172b6fc583776cb1a6479b0b0929be808b08a1e7ce64e70" src="assets/8.png" alt="YouTube Link." css-class="clothing-individual" />
+          </mj-column>
+          <mj-column padding="0">
+            <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cfd113ae6562cf313e58fc1e2c8e5d53472e375dd01256330b32f9110832faf2fc2e888979792d1cf8279934b480098f0a9a506b6539fb0f5a" src="assets/9.png" alt="LinkedIn Link." css-class="clothing-individual"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
 
-        <!-- School needs -->
-      <mj-section padding="0px">
+      <!-- School needs -->
+      <mj-section padding-bottom="25px">
         <mj-column padding="0px">
           <mj-image padding="0px" src="assets/10.png" alt="" href="https://vincerocollective.com/products/the-argo-automatic-eclipse" css-class="watch-image" />
         </mj-column>

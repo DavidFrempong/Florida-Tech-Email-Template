@@ -39,9 +39,9 @@
       }
     </mj-style>
     <!-- Shopify color: background-color: #004c3f; -->
+            <!-- background-color: #300606; -->
     <mj-style inline="inline">
       .header {
-        <!-- background-color: #300606; -->
         background-color: #d7d4d4;
       }
 
@@ -60,7 +60,7 @@
       }
 
       .link-color.action {
-        color: #ffffff;
+        color: #0a0a0a;
       }
 
       .icons-size {

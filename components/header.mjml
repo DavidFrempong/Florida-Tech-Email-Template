@@ -1,25 +1,25 @@
     <mj-section css-class="header section-padding" padding="15px 0px">
       <mj-column >
-        <mj-image src="assets/Logo 1.png" alt="Shopify Logo." href="https://vincerocollective.com/" align="left" css-class="logo" padding="0px" />
+        <mj-image src="assets/Logo 1.png" alt="Shopify Logo." href="https://fit.spirit.bncollege.com/" align="left" css-class="logo" padding="0px" />
       </mj-column>
       <mj-column>
-        <mj-text color="#ffffff" font-size="12px" font-weight="400" css-class="nav-links">
-          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db7799bf89698085f54ba5649d97791ff3c3f84b5c18934335b7eb34ae3fcbb6c84ebfd6e7c20254d0bf845ec12bd5e97741fe5a9a87accc472" class="link-color action" color="#ffffff">MEN</a>
+        <mj-text color="#0a0a0a" font-size="12px" font-weight="400" css-class="nav-links">
+          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db7799bf89698085f54ba5649d97791ff3c3f84b5c18934335b7eb34ae3fcbb6c84ebfd6e7c20254d0bf845ec12bd5e97741fe5a9a87accc472" class="link-color action" color="#0a0a0a">MEN</a>
         </mj-text>
       </mj-column>
         <mj-column>
-        <mj-text color="#ffffff" font-size="12px" font-weight="400" css-class="nav-links">
-          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db712e8ffa07d779323028374bf9afb311d0629ced8e2e13521ed9896f7490701ce18385c11d725b3cbb7f19ab9e2463c564039c2d7b15d586e" class="link-color action" color="#ffffff">WOMEN</a>
+        <mj-text color="#0a0a0a" font-size="12px" font-weight="400" css-class="nav-links">
+          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db712e8ffa07d779323028374bf9afb311d0629ced8e2e13521ed9896f7490701ce18385c11d725b3cbb7f19ab9e2463c564039c2d7b15d586e" class="link-color action" color="#0a0a0a">WOMEN</a>
         </mj-text>
       </mj-column>
         <mj-column>
-        <mj-text color="#ffffff" font-size="12px" font-weight="400" css-class="nav-links">
-          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db7d6f6cf608f33fc02f083280548904da10dab278795e47652cde8f05dee23e692a2ccd855d8d312fa874f186342bb9feae31cc524d4fdd52f" class="link-color action" color="#ffffff">T-SHIRTS</a>
+        <mj-text color="#0a0a0a" font-size="12px" font-weight="400" css-class="nav-links">
+          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db7d6f6cf608f33fc02f083280548904da10dab278795e47652cde8f05dee23e692a2ccd855d8d312fa874f186342bb9feae31cc524d4fdd52f" class="link-color action" color="#0a0a0a">T-SHIRTS</a>
         </mj-text>
       </mj-column>
         <mj-column>
-        <mj-text color="#ffffff" font-size="12px" font-weight="400" css-class="nav-links">
-          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db71dba89b98d6b0606c2494a8f1556ce75fd56ca9eebcc75dad4be63d173532fe42e191bcf9719a24c41a2cae0aeca38ae87ebd4e2bcd5de71" class="link-color action" color="#ffffff">HATS</a>
+        <mj-text color="#0a0a0a" font-size="12px" font-weight="400" css-class="nav-links">
+          <a href="https://click.e.fanaticsretailgroup.com/?qs=9120b54baf2a8db71dba89b98d6b0606c2494a8f1556ce75fd56ca9eebcc75dad4be63d173532fe42e191bcf9719a24c41a2cae0aeca38ae87ebd4e2bcd5de71" class="link-color action" color="#0a0a0a">HATS</a>
         </mj-text>
       </mj-column>
     </mj-section>

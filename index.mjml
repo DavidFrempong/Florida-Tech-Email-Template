@@ -41,11 +41,12 @@
     <!-- Shopify color: background-color: #004c3f; -->
     <mj-style inline="inline">
       .header {
-        background-color: #300606;
+        <!-- background-color: #300606; -->
+        background-color: #d7d4d4;
       }
 
       .logo img {
-        width: 100px !important;
+        width: 40px !important;
       }
 
       .section-padding {
@@ -86,7 +87,7 @@
       }
 
       .clothing-container {
-        height: 200px;
+        height: 240px;
         padding-top: 20px;
         margin-bottom: 20px;
             padding-bottom: 200px;

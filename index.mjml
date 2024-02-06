@@ -61,7 +61,7 @@
 
       .link-color.action {
         color: #0a0a0a;
-        font-weight: 700;
+        font-weight: 600;
       }
 
       .icons-size {

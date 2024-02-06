@@ -41,7 +41,7 @@
     <!-- Shopify color: background-color: #004c3f; -->
     <mj-style inline="inline">
       .header {
-        background-color: #5a0d0d;
+        background-color: #300606;
       }
 
       .logo img {
@@ -67,6 +67,10 @@
         padding: 5px;
       }
 
+      .clothing{
+        max-width: fit-content;
+      }
+
       .footer {
         background-size: 600px;
       }
@@ -82,13 +86,16 @@
       }
 
       .clothing-container {
-        height: 150px;
+        height: 200px;
+        padding-top: 20px;
+        margin-bottom: 20px;
+            padding-bottom: 200px;
       }
 
       .clothing-individual img {
-        height: 150px;
+        height: 120px;
         width: auto;
-        max-width: 100%;
+        max-width: 90%;
         display: block;
       }
     </mj-style>
@@ -115,8 +122,8 @@
       </mj-section>
 
       <!-- Clothing -->
-      <mj-section padding-top="20px" css-class="clothing-container">
-        <mj-group css-class="icons-size">
+      <mj-section css-class="clothing-container">
+        <mj-group css-class="clothing">
           <mj-column padding="0">
             <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cf9bc0fd82966d389357c169638b6517066d7e7deab94265c8bdf8ff5cb134e3e4dc89d64a915afa737184895bef02eb06ee6ac727b45d78a8" src="assets/4.png" alt="Facebook Link." css-class="clothing-individual" />
           </mj-column>
@@ -129,8 +136,8 @@
         </mj-group>
       </mj-section>
 
-      <mj-section padding="0px" css-class="clothing-container">
-        <mj-group css-class="icons-size">
+      <mj-section css-class="clothing-container">
+        <mj-group css-class="clothing">
           <mj-column padding="0">
             <mj-image padding="0 5px" href="https://click.e.fanaticsretailgroup.com/?qs=e0a90404fb13b2cf2eed7d5afda3e13c9005ec3820464413cda3a3788af6313191d11286caf86ebbf0b2dbda372ee283647d736e30d6d07ea1035b3c5b93e627" src="assets/7.png" alt="Facebook Link." css-class="clothing-individual" />
           </mj-column>
